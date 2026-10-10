@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn Vũ Nhật Minh
 - **Mã số sinh viên:** 24810320314
-- **Lớp:** [Điền tên lớp của bạn]
+- **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** BÀI 5.1: Form Đăng ký tài khoản và bắt lỗi giao diện (ErrorProvider)
 
