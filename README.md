@@ -17,7 +17,7 @@
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/kq_thuc_thi.png)
 
-### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+### 3. Ảnh màn hình Kiểm tra lỗi 
 ![Kiểm tra lỗi](./screenshots/kt_loi.png)
 
 ---
